@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website - Dr. Matt Geary: Conservation Ecology, Species Recovery, Modelling, Habitat, Analysis"
+title                    : "Matt Geary"
 title_separator          : "-"
 name                     : &name "Matt Geary"
 description              : &description "personal description"
