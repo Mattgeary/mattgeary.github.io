@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+Conservation Biology Research Group : "https://chesterconsbio.github.io"
 
 # Reading Files
 include:
@@ -181,7 +181,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  MRes:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
