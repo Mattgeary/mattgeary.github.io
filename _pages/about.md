@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Matt Geary - Conservation Ecologist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
----
-layout: default
-title: Home
----
 
-I am a senior lecturer in Conservation Biology at the ![Matt](../images/photo.jpg){: .floatRight}{: height="500px" width="300px"} University of Chester (all views etc. expressed are my own) and work in the Conservation Biology Research Group. I'm an ecologist with an interest in how and why populations grow spatially and over time. Can these processes be explained through demographics, movements of individuals or, perhaps, environmental drivers? Why do certain species live where they do and how might this change in the future? I use ecological modelling and statistical analyses to try to answer these questions.   
+I am a Senior lecturer in Conservation Biology at the ![Matt](../images/photo.jpg){: .floatRight}{: height="500px" width="300px"} University of Chester (all views etc. expressed are my own) and work in the Conservation Biology Research Group. I'm an ecologist with an interest in how and why populations grow spatially and over time. Can these processes be explained through demographics, movements of individuals or, perhaps, environmental drivers? Why do certain species live where they do and how might this change in the future? I use ecological modelling and statistical analyses to try to answer these questions.   
 
 <br>
 
