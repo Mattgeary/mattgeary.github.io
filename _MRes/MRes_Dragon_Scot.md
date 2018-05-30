@@ -1,0 +1,9 @@
+---
+title: "Highland Dragonfly Occupancy and Distribution"
+excerpt: "Investigating the distribution of Highland dragonflies through monitoring and recording"
+collection: MRes
+---
+
+_w/ Dr. Achaz von Hardenberg_  
+
+The Scottish Highlands are home to a small number of Northern distributed dragonfly species. These high-latitude specialists are likely to be under-recorded and we do not currently have a good understanding of what is likely to drive their distributions. One of these species, White-faced darter (_Leucorrhinia dubia_) is a lowland peatbog specialist dragonfly which is currently classified as endangered on the British Red Data list. They are patchily distributed in Britain with the largest populations in the Scottish Highlands. Previous projects at the University of Chester have established a monitoring protocol to survey each life-stage of the white-faced darter and established habitat relationships at both broad and fine scales. This project would use this protocol to monitor white-faced darter and other highland specialist odonata, across several sights in the Scottish Highlands. The project aims to record the status of these species at a range of sites across the Scottish Highlands. These surveys will use multi-life-stage survey methods and incorporate repeated visits which will allow us to estimate occupancy and detectability across the region. The results of this work will inform dragonfly conservation and monitoring protocols. This project will involve fieldwork in the Highlands of Scotland and students should be expected to be based there during the field season. Dragonflies have a broad range in the Highlands and the fieldwork sites are likely to include some remote, and extremely beautiful, sites. This project would suit a student who is keen to work in the field. It will require good networking skills and the ability to work independently.
