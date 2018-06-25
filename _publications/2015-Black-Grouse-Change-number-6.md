@@ -3,7 +3,7 @@ title: "Both habitat change and local lek structure influence patterns of spatia
 collection: publications
 permalink: /publication/2015-Black-Grouse-Change-number-6
 excerpt: 'Investigating the influence if habitat and connectivity in a declining then recovering black grouse population'
-date: 2015
+date: 2015-04-01
 venue: 'Population Ecology'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Geary, M., Fielding, A.H., Marsden, S.J., 2015. Both habitat change and local lek structure influence patterns of spatial loss and recovery in a black grouse population. Population Ecology 57, 421–431. doi:10.1007/s10144-015-0484-3  '

@@ -3,7 +3,7 @@ title: "Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated
 collection: publications
 permalink: /publication/2018_Hen-Harrier_Mull-number-9
 excerpt: 'Investigating habitat use by nesting hen harrier on the Isle of Mull, Scotland'
-date: 2018
+date: 2018-02-17
 venue: 'Bird Study'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/00063657.2017.1421611'
 citation: 'Geary, M., Haworth, P.H. & Fielding, A.H., 2018. Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography, Bird Study, DOI: 10.1080/00063657.2017.1421611  

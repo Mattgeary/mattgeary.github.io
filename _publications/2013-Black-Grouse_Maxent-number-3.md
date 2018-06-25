@@ -3,7 +3,7 @@ title: "Designing mosaic landscapes for Black Grouse Tetrao tetrix using multi-s
 collection: publications
 permalink: /publication/2013-Black-Grouse_Maxent-number-3
 excerpt: 'Using SMDs to investigate habitat requirments of black grouse at multiple scales'
-date: 2013
+date: 2013-10-01
 venue: 'Ibis'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/ibi.12090'
 citation: 'Citation: Geary, M., Fielding, A. & Marsden, S.J., 2013. Designing mosaic landscapes for Black Grouse Tetrao tetrix using multi-scaled models. Ibis, 155: 792–803. doi: 10.1111/ibi.12090 '

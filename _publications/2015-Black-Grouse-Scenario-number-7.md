@@ -3,7 +3,7 @@ title: "Scenario-Led Habitat Modelling of Land Use Change Impacts on Key Species
 collection: publications
 permalink: /publication/2015-Black-Grouse-Scenario-number-7
 excerpt: 'Using expert-led predictions to investiagate potential impacts of land-use change on black grouse'
-date: 2015
+date: 2015-11-16
 venue: 'PLoS One'
 paperurl: 'http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142477'
 citation: 'Geary, M., Fielding, A. H., McGowan, P. J. K. & Marsden, S.J., 2015. Scenario-Led Habitat Modelling of Land Use Change Impacts on Key Species. PloS one 10.  '

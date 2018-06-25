@@ -3,7 +3,7 @@ title: "The anatomy of population change in a black grouse population 1992-2008"
 collection: publications
 permalink: /publication/2009-BlackGrouse-anatomy-number-2
 excerpt: 'Analysis of population change and changes in lek sizes in a Scottish black grouse population'
-date: 2012
+date: 2012-01-01
 venue: 'Oecologia'
 paperurl: 'https://link.springer.com/article/10.1007/s00442-011-2062-5'
 citation: 'Geary, M., Fielding, A. H., & Marsden, S. J., (2012). The anatomy of population change in a black grouse population 1992-2008. Oecologia, (168), 73-81. doi:10.1007/s00442-011-2062-5'

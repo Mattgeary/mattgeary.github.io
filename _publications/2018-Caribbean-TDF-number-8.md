@@ -3,7 +3,7 @@ title: "A call to action for climate change research on Caribbean dry forests"
 collection: publications
 permalink: /publication/2018-Caribbean-TDF-number-8
 excerpt: 'Review of research into climate changes impacts on tropical dry forest in the Caribbean'
-date: 2018
+date: 2018-04-20
 venue: 'Regional Environmental Change'
 paperurl: 'https://link.springer.com/article/10.1007/s10113-018-1334-6'
 citation: 'Nelson, H.P., Devenish-Nelson, E.S., Rusk, B.L., Geary, M. and Lawrence, A.J., 2018. A call to action for climate change research on Caribbean dry forests. Regional Environmental Change, 18(5)'

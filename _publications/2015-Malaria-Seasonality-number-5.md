@@ -3,7 +3,7 @@ title: "Seasonality of Plasmodium falciparum transmission: a systematic review"
 collection: publications
 permalink: /publication/2015-Malaria-Seasonality-number-5
 excerpt: 'A systematic review of research onto seasonality in malaria transmission'
-date: 2015
+date: 2015-12-01
 venue: 'Malaria Journal'
 paperurl: 'https://malariajournal.biomedcentral.com/articles/10.1186/s12936-015-0849-2'
 citation: 'Reiner, R.C., Geary, M., Atkinson, P.M., Smith, D.L., Gething, P.W., 2015. Seasonality of Plasmodium falciparum transmission: a systematic review. Malaria Journal 14, 343.  '
