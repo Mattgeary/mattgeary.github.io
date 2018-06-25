@@ -3,6 +3,9 @@ title: "BI4141 - Global Biodiversity: Concepts & Threats"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI4141-Global-Biodiversity
+venue: ""
+date: 
+location: ""
 ---
 
 ### Aims

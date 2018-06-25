@@ -3,6 +3,9 @@ title: "BI7143 - Wildlife Research Methods"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/BI7143_Wildlife-Research-Methods
+venue: ""
+date: 
+location: ""
 ---
 
 ### Aims

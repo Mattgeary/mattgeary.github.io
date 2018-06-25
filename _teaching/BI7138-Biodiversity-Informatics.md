@@ -2,7 +2,10 @@
 title: "BI7138 - Biodiversity Informatics"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/BI7138-Conservation-Technologies
+permalink: /teaching/BI7138-Biodiversity-Informatics
+venue: ""
+date: 
+location: ""
 ---
 
 ### Aims

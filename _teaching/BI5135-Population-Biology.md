@@ -3,6 +3,9 @@ title: "BI5135 - Population Biology & Conservation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI5135-Population-Biology
+venue: ""
+date: 
+location: ""
 ---
 
 ### Aims
