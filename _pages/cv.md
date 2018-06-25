@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Matthew Geary - Senior Lecturer In Conservation Biology"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,18 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-Dr Matthew Geary - Senior Lecturer In Conservation Biology
-=================================
 					
-Prairie 104					
-Department of Biological Sciences
-University of Chester
-Parkgate Road
-Chester
-CH1 4BJ
+Prairie 104  					
+Department of Biological Sciences  
+University of Chester  
+Parkgate Road  
+Chester  
+CH1 4BJ  
 
-__Email:__ M.Geary@Chester.ac.uk  
-__Phone:__ 01244 511276   
+__Email:__ M.Geary@Chester.ac.uk    
+__Phone:__ 01244 511276  
 
 
 **************
