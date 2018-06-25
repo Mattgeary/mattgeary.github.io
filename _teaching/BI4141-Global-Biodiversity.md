@@ -3,6 +3,7 @@ title: "BI4141 - Global Biodiversity: Concepts & Threats"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI4141-Global-Biodiversity
+excerpt: "Level 4 course on conservation biology"
 venue: ""
 date: 2018-01-01
 location: ""

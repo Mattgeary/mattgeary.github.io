@@ -3,6 +3,7 @@ title: "BI5135 - Population Biology & Conservation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI5135-Population-Biology
+excerpt: "Level 5 course on theoretical ecology and population modelling"
 venue: ""
 date: 2018-01-01
 location: ""

@@ -3,6 +3,7 @@ title: "BI5138 - Conservation Technologies"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI5138-Conservation-Technologies
+excerpt: "Level 5 course on GIS and the use of technology in conservation biology"
 venue: ""
 date: 2018-01-01
 location: ""

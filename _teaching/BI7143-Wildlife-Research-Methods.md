@@ -3,6 +3,7 @@ title: "BI7143 - Wildlife Research Methods"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/BI7143_Wildlife-Research-Methods
+excerpt: "MRes course on research methods"
 venue: ""
 date: 2018-01-01
 location: ""

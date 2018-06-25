@@ -3,6 +3,7 @@ title: "BI7138 - Biodiversity Informatics"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/BI7138-Biodiversity-Informatics
+excerpt: "MSc course on data analysis and GIS"
 venue: ""
 date: 2018-01-01
 location: ""
