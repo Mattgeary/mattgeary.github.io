@@ -22,15 +22,15 @@ __Phone:__ 01244 511276
 
 
 **************
-Research
---------
+## Research
+
 
 My research focuses on modelling populations in space and time. Currently I am working on using these models to identify vulnerable demographic features, investigate habitat associations and provide evidence-based advice for land managers and conservationists. I have projects involving birds, mammals, invertebrates and amphibians in the Great Britain, Ireland, South East Asia and the Caribbean. I have a keen interest in the use of computational methods in ecology and environmental science and believe that the use of novel computational techniques has the potential to answer many questions in ecology and conservation. I currently supervise  several MRes students working on topics related to conservation biology and ecology. I am also involved in supervising PhD students and have experience as an examiner for PhD qualifications.	
 
 **************
 
-Academic Positions
----------------------
+## Academic Positions
+
 
 * Associate Editor - Bird Study  
 * Fellow of the Higher Education Academy
@@ -45,15 +45,14 @@ Academic Positions
 * Reviewer for Bird Study, Bird Conservation International, Ibis, PLOS One, Italian Journal of Zoology, Forest Ecology and Management, Ringing and Migration
 * Design and run training courses (e.g. Species distribution modelling for Chester Zoo, Occupancy Modelling forthe managemnt of small populations) 
 
-Grants awarded
-----------------
+## Grants awarded
 
 * __Marsden, S.J., Geary, M., Collar, N., Leon, Y. (2018)__ Towards the long-term survival of the endemic Hispaniolan Amazon, Parakeet and Trogon in Dominican Republic – _awarded $131,850 Loro Parque Foundation_  
 __Geary, M., Davies, R. and von Hardenberg, A. (2016)__ Using multi-life-stage monitoring to assess the status of a dragonfly reintroduction project: White-faced Darter in Cheshire – _awarded £250 British Dragonfly Society_  
 __Nelson, H.P., Geary, M. Rusk, B. Lawrence A. (2014)__ Grenada Dove Conservation Programme: Sub-grant to University of Chester (UoC) - _awarded $63,867 Critical Ecosystem Partnership Fund_  
 
-Qualifications
----------
+
+## Qualifications
 
 __2014 - 2015__  
 __PGCert - Learning and Teaching in Higher Education__  
@@ -78,8 +77,7 @@ _University of Newcastle Upon Tyne_
 
 **************
 
-Employment History
---------------------
+## Employment History
 
 __2014 - 2017__  
 __Senior Lecturer in Conservation Biology/Animal Behaviour, University of Chester__  
@@ -101,8 +99,7 @@ __Ecological Surveyor, Highland Ornithology__
 
 **************
 
-Output
-------
+## Output
 
 ### Publications
 
