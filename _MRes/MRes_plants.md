@@ -1,5 +1,6 @@
 ---
 title: "Alpine Aliens"
+permalink: /MRes/MRes_plants
 excerpt: "Distribution and spread dynamics of invasive alien plant species in the North-western Italian Alps"
 collection: MRes
 ---

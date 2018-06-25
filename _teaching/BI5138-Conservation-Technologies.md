@@ -3,6 +3,9 @@ title: "BI5138 - Conservation Technologies"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI5138-Conservation-Technologies
+venue: ""
+date: 2018-01-01
+location: ""
 ---
 
 ### Aims

@@ -4,7 +4,7 @@ collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/BI7143_Wildlife-Research-Methods
 venue: ""
-date: 
+date: 2018-01-01
 location: ""
 ---
 

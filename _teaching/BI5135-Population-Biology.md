@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI5135-Population-Biology
 venue: ""
-date: 
+date: 2018-01-01
 location: ""
 ---
 

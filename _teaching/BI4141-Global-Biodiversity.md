@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/BI4141-Global-Biodiversity
 venue: ""
-date: 
+date: 2018-01-01
 location: ""
 ---
 
