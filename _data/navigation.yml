@@ -3,3 +3,9 @@ main:
   
   - title: "MRes"
     url: /MRes/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Publications"
+    url: /Publications/

@@ -4,6 +4,7 @@ excerpt: "Investigating pond occupancy in a Great-crested Newt metapopulation"
 collection: MRes
 ---
 
+# Great Crested Newt occupancy on the Black Isle
 
 _w/ Scottish Natural Heritage and Dr. Lottie Hosie_  
 
