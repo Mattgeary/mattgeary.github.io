@@ -34,6 +34,8 @@ My research focuses on modelling populations in space and time. Currently I am w
 
 * Associate Editor - Bird Study  
 * Fellow of the Higher Education Academy
+* Department Postgraduate Tutor
+* Programme Leader - MRes Biological Sciences
 * Programme Leader for BSc (Hons) Conservation Biology (2014 - 2018)  
 * Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI5135 - Population Biology and Conservation, BI7138 - COnservation Technologies, BI7138 - Biodiversity Informatics and BI7143 - Wildlife Research Methods  
 * External Examiner at Bangor University (BSc Environmental Conservation, BSc Applied Terrestrial and Marine Ecology. BSc Agriculture, Environment and Conservation and MSc Conservation and Land Management.)
