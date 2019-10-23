@@ -22,9 +22,10 @@ I also contribute several other modules:
 * BI4154 - Applied Animal Behaviour
 * BI5110 - Research Methods
 * BI5118 - Behavioural Ecology
+* BI5135 - Population Biology & Conservation
 * BI6129 - Animal Behaviour and Conservation
-* BI7137 - Managing Wildlife Populations and Landscapes
 * BI7140 - MRes Research Dissertation
+* BI7149 - Contemporary Issues in Animal Behaviour 
 
 
 ### Previous contributions

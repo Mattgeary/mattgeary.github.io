@@ -36,12 +36,13 @@ My research focuses on modelling populations in space and time. Currently I am w
 * Fellow of the Higher Education Academy
 * Department Postgraduate Tutor
 * Programme Leader - MRes Biological Sciences
+* Programme Leader - MSc Wildlife Conservation
 * Programme Leader for BSc (Hons) Conservation Biology (2014 - 2018)  
 * Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI5135 - Population Biology and Conservation, BI7138 - COnservation Technologies, BI7138 - Biodiversity Informatics and BI7143 - Wildlife Research Methods  
-* External Examiner at Bangor University (BSc Environmental Conservation, BSc Applied Terrestrial and Marine Ecology. BSc Agriculture, Environment and Conservation and MSc Conservation and Land Management.)
+* External Examiner at Bangor University (2015 - 2019)
 * External Examiner at NUI Galway (Environmental Science)
 * Faculty Research Ethics Committee
-* Management Board - Bioscience Horizons: The International Journal of Undergraduate Research  
+* Management Board - Bioscience Horizons: The International Journal of Undergraduate Research  (2014 - 2018)
 * BES Review College
 * Member of the British Ecological Society and British Ornithologists Union  
 * Reviewer for Bird Study, Bird Conservation International, Ibis, PLOS One, Italian Journal of Zoology, Forest Ecology and Management, Ringing and Migration
@@ -50,8 +51,9 @@ My research focuses on modelling populations in space and time. Currently I am w
 ## Grants awarded
 
 * __Marsden, S.J., Geary, M., Collar, N., Leon, Y. (2018)__ Towards the long-term survival of the endemic Hispaniolan Amazon, Parakeet and Trogon in Dominican Republic – _awarded $131,850 Loro Parque Foundation_  
-__Geary, M., Davies, R. and von Hardenberg, A. (2016)__ Using multi-life-stage monitoring to assess the status of a dragonfly reintroduction project: White-faced Darter in Cheshire – _awarded £250 British Dragonfly Society_  
-__Nelson, H.P., Geary, M. Rusk, B. Lawrence A. (2014)__ Grenada Dove Conservation Programme: Sub-grant to University of Chester (UoC) - _awarded $63,867 Critical Ecosystem Partnership Fund_  
+* __Stanley C. and Geary, M. (2017)__ Primate Conservation in Ghana – awarded $880 Idea Wild Equipment Grant
+* __Geary, M., Davies, R. and von Hardenberg, A. (2016)__ Using multi-life-stage monitoring to assess the status of a dragonfly reintroduction project: White-faced Darter in Cheshire – _awarded £250 British Dragonfly Society_  
+* __Nelson, H.P., Geary, M. Rusk, B. Lawrence A. (2014)__ Grenada Dove Conservation Programme: Sub-grant to University of Chester (UoC) - _awarded $63,867 Critical Ecosystem Partnership Fund_  
 
 
 ## Qualifications
@@ -104,6 +106,10 @@ __Ecological Surveyor, Highland Ornithology__
 ## Output
 
 ### Publications
+
+__Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 2019.__ Camera Traps Confirm the Presence of the White-naped Mangabey  Cercocebus lunulatus in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).  
+
+__Davies, R., von Hardenberg, A. & Geary, M., 2018.__ Recapture rates and habitat associations of White-faced Darter Leucorhinnia dubia on Fenn's and Whixall Moss, Shropshire, UK Journal of the British Dragonfly Society 34 (2), 89-101  
 
 __Geary, M., Haworth, P.H. & Fielding, A.H., 2018.__ Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography, Bird Study, DOI: 10.1080/00063657.2017.1421611  
 
