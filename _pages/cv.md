@@ -150,9 +150,9 @@ Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specif
 
 | Naomi Matthews | PhD | COnservation Ecology of GIant Pangolin in Uganda | 2019 - Present |
 | Andrea Thomen | PhD | Conservation and management of the Hispaniolan Parrot and Parakeet in Dominican Republic | 2019 - Present |
-| Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (__Leptotila wellsi__) | 2016 - Present |
+| Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (_Leptotila wellsi_) | 2016 - Present |
 | Michal Zatrak | PhD | Investigating stress and diseases in harbour seals | 2018 - Present |
-| Eachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (__Globicephala melas__) around the British Isles | 2018 - Present | 
+| Eachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British Isles | 2018 - Present | 
 | Joe Cooper | MRes | Conservation of Houbara Bustard on Lanzarote, Spain | 2019 - Present | 
 | Lorna Marcham | MRes | Pond colonisation and conservation on the Black Isle, Scotland | 2019 - Present |
 | Jack Lawrence | MRes | Uptake of nestboxes by Tawny Owl in Cheshire, UK | 2019 - Present | 
@@ -164,8 +164,7 @@ Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specif
 | Emma Morris | MRes |  The effect of forest complexity and anthropogenic disturbance on mammal and bird assemblages in Ankasa Conservation Area, Ghana | 2018 - 2019 | 
 | Cassie Jones | MRes | Occupancy of White-faced Darter dragonflies in two Highland forests, Scotland | 2017 - 2018 | 
 | Ryan Nolan | MRes | Population Surveys of Mammalian Species, Including Critically Endangered Primates, at Cape Three Points Forest Reserve, Ghana | 2017 - 2018 | 
-| Adam Welch | MRes | Effects of Human Encroachment on Endangered Primates in Cape
-Three Points Forest Reserve, Ghana. | 2017 - 2018 | 
+| Adam Welch | MRes | Effects of Human Encroachment on Endangered Primates in Cape Three Points Forest Reserve, Ghana. | 2017 - 2018 | 
 | Rachel Davies | MRes | Investigating Habitat Use of the White-faced Darter Dragonfly | 2016 - 2017 | 
 | Zoe Ball | MRes | Using camera trap data to examine populations of ungulates and their relationships with forest pools in the dry forests of Cambodia | 2016 - 2017 | 
 | Peter York | PhD | Open limestone pavement grike microclimates in Great Britain and Ireland: understanding the present to manage the future | 2014 - 2019 | 

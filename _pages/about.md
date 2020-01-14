@@ -16,7 +16,7 @@ My current research includes conservation projects on birds, amphibians and inve
 
 <br>
 
-I usually advertise several MRes projects each year as part of our [MRes Wildlife Conservation and Behaviour](https://www1.chester.ac.uk/study/postgraduate/biological-sciences-wildlife-behaviour-and-conservation-pathway/201810) programme. If you are interested, take a look at the [details of my projects](http://mattgeary.github.io/MRes/) which will, be posted when confirmed and contact me if you'd like to know more. 
+I usually advertise several MRes projects each year as part of our [MRes WBiological Sciences](https://www1.chester.ac.uk/study/postgraduate/biological-sciences-mres) programme. If you are interested, take a look at the [details of my projects](http://mattgeary.github.io/MRes/) which will, be posted when confirmed and contact me if you'd like to know more. 
 
 <br>
 
