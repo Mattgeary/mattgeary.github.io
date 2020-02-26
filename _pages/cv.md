@@ -107,6 +107,8 @@ __Ecological Surveyor, Highland Ornithology__
 
 ### Publications
 
+__Abrahams, C., Geary, M., 2020__ Combining bioacoustics and occupancy modelling for improved monitoring of rare breeding bird populations. Ecological Indicators (112). https://doi.org/10.1016/j.ecolind.2020.106131
+
 __Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 2019.__ Camera Traps Confirm the Presence of the White-naped Mangabey  Cercocebus lunulatus in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).  
 
 __Davies, R., von Hardenberg, A. & Geary, M., 2018.__ Recapture rates and habitat associations of White-faced Darter Leucorhinnia dubia on Fenn's and Whixall Moss, Shropshire, UK Journal of the British Dragonfly Society 34 (2), 89-101  

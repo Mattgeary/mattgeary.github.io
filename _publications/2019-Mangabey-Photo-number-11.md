@@ -3,7 +3,7 @@ collection: publications
 permalink: /publications/2019-Mangabey-Photo-number-11
 excerpt: 'Camera trap confirmation of White-naped Mangabey in Cape Three Points'
 date: 2019-03-01
-venue: 'Primate COnservation'
+venue: 'Primate Conservation'
 paperurl: 'http://www.primate-sg.org/primate-conservation-33/'
 citation: 'Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 2019. Camera Traps Confirm the Presence of the White-naped Mangabey  Cercocebus lunulatus in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).'
 ---
