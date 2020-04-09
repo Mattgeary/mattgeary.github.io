@@ -1,6 +1,7 @@
+---
 title: "A review of tropical dry forest ecosystem service research in the Caribbean – gaps and policy-implications"
 collection: publications
-permalink: /publications/2020-TDF-Ecosystem-servies-number-13
+permalink: /publication/2020-TDF-Ecosystem-servies-number-13
 excerpt: 'Dry forest ecosystems are important in the Caribbean but very little research exists for most islands'
 date: 2020-04-01
 venue: 'Ecosystem Serices

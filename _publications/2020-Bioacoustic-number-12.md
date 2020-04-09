@@ -1,6 +1,6 @@
 title: "Combining bioacoustics and occupancy modelling for improved monitoring of rare breeding bird populations"
 collection: publications
-permalink: /publications/2020-Bioacoustic-number-12
+permalink: /publication/2020-Bioacoustic-number-12
 excerpt: 'Bioacoustics can be used to provide improved data over traditional survey methods'
 date: 2020-01-03
 venue: 'Ecological Indicators'

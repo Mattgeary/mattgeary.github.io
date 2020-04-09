@@ -1,7 +1,7 @@
 ---
 title: "Recapture rates and habitat associations of White-faced Darter Leucorhinnia dubia on Fenn's and Whixall Moss, Shropshire, UK"
 collection: publications
-permalink: /publications/2018-WFD-Mark_recapture-number-10
+permalink: /publication/2018-WFD-Mark_recapture-number-10
 excerpt: 'Capture-Mark-Recapture and Habitat use of White-faced darter in Shropshire'
 date: 2018-10-01
 venue: 'Journal Of the British Dragonfly Society'

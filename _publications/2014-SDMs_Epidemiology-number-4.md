@@ -5,7 +5,7 @@ permalink: /publication/2014-SDMs_Epidemiology-number-4
 excerpt: 'Discussion of some issues of using SDMs in epidemiology'
 date: 2014-01-01
 venue: 'Geospatial Health'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://geospatialhealth.net/index.php/gh/article/view/397'
 citation: 'Wardrop, N.A., Geary, M., Osborne, P.E., Atkinson, P.M., 2014. Interpreting predictive maps of disease: highlighting the pitfalls of distribution models in epidemiology. Geospatial Health 9, 237–246.   '
 ---
 
