@@ -107,6 +107,8 @@ __Ecological Surveyor, Highland Ornithology__
 
 ### Publications
 
+__Nelson, H.P., Devenish-Nelson, E.S., Rusk, B.L., Geary, M. and Lawrence, A.J., 2020.__ A review of tropical dry forest ecosystem service research in the Caribbean–gaps and policy-implications. Ecosystem Services, 43, p.101095.  
+
 __Abrahams, C., Geary, M., 2020__ Combining bioacoustics and occupancy modelling for improved monitoring of rare breeding bird populations. Ecological Indicators (112). https://doi.org/10.1016/j.ecolind.2020.106131
 
 __Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 2019.__ Camera Traps Confirm the Presence of the White-naped Mangabey  Cercocebus lunulatus in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).  
