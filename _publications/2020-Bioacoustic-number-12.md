@@ -7,7 +7,6 @@ venue: 'Ecological Indicators'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1470160X20300686?via%3Dihub#!'
 citation: 'Abrahams, C., Geary, M., 2020 Combining bioacoustics and occupancy modelling for improved monitoring of rare breeding bird populations. Ecological Indicators (112). https://doi.org/10.1016/j.ecolind.2020.106131'
 ---
-
 # Abstract
 
 Effective monitoring of rare and declining species is critical to enable their conservation, but can often be difficult due to detectability or survey constraints. However, developments in acoustic recorders are enabling an important new approach for improved monitoring that is especially applicable for long-term studies, and for use in difficult environments or with cryptic species.
