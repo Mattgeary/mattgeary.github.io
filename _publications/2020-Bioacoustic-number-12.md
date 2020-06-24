@@ -1,3 +1,4 @@
+---
 title: "Combining bioacoustics and occupancy modelling for improved monitoring of rare breeding bird populations"
 collection: publications
 permalink: /publication/2020-Bioacoustic-number-12
