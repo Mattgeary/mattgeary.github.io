@@ -25,7 +25,7 @@ __Phone:__ 01244 511276
 ## Research
 
 
-My research focuses on modelling populations in space and time. Currently I am working on using these models to identify vulnerable demographic features, investigate habitat associations and provide evidence-based advice for land managers and conservationists. I have projects involving birds, mammals, invertebrates and amphibians in the Great Britain, Ireland, South East Asia and the Caribbean. I have a keen interest in the use of computational methods in ecology and environmental science and believe that the use of novel computational techniques has the potential to answer many questions in ecology and conservation. I currently supervise  several MRes students working on topics related to conservation biology and ecology. I am also involved in supervising PhD students and have experience as an examiner for PhD qualifications.	
+My research focuses on modelling populations in space and time. Currently I am working on using these models to identify vulnerable demographic features, investigate habitat associations and provide evidence-based advice for land managers and conservationists. I have projects involving birds, mammals, invertebrates and amphibians in the Great Britain, Ireland, South East Asia and the Caribbean. I have a keen interest in the use of computational methods in ecology and environmental science and believe that the use of novel computational techniques has the potential to answer many questions in ecology and conservation. I currently supervise several PhD and MRes students working on topics related to conservation biology and ecology. I also have experience as an examiner for PhD qualifications.	
 
 **************
 
@@ -107,6 +107,10 @@ __Ecological Surveyor, Highland Ornithology__
 
 ### Publications
 
+__Geary, M. and von Hardenberg, A., 2020.__ White-faced Darter distribution is associated with coniferous forests in Great Britain. Insect Conservation and Diversity  
+
+__Phillips, S., Geary, M., Allmark, M., Bennett, S., Norman, K., Ball, R.J., Peters, C.M. and Muir, A.P., 2020.__ The importance of long-term genetic monitoring of reintroduced populations: inbreeding in the natterjack toad (Epidalea calamita). Herpetological Journal, 30(3).  
+
 __Nelson, H.P., Devenish-Nelson, E.S., Rusk, B.L., Geary, M. and Lawrence, A.J., 2020.__ A review of tropical dry forest ecosystem service research in the Caribbean–gaps and policy-implications. Ecosystem Services, 43, p.101095.  
 
 __Abrahams, C., Geary, M., 2020__ Combining bioacoustics and occupancy modelling for improved monitoring of rare breeding bird populations. Ecological Indicators (112). https://doi.org/10.1016/j.ecolind.2020.106131
@@ -152,11 +156,11 @@ Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specif
 
 ## PGR Supervision
 
-| Naomi Matthews | PhD | COnservation Ecology of GIant Pangolin in Uganda | 2019 - Present |
+| Naomi Matthews | PhD | COnservation Ecology of Giant Pangolin in Uganda | 2019 - Present |
 | Andrea Thomen | PhD | Conservation and management of the Hispaniolan Parrot and Parakeet in Dominican Republic | 2019 - Present |
 | Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (_Leptotila wellsi_) | 2016 - Present |
 | Michal Zatrak | PhD | Investigating stress and diseases in harbour seals | 2018 - Present |
-| Eachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British Isles | 2018 - Present | 
+| Rachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British Isles | 2018 - Present | 
 | Joe Cooper | MRes | Conservation of Houbara Bustard on Lanzarote, Spain | 2019 - Present | 
 | Lorna Marcham | MRes | Pond colonisation and conservation on the Black Isle, Scotland | 2019 - Present |
 | Jack Lawrence | MRes | Uptake of nestboxes by Tawny Owl in Cheshire, UK | 2019 - Present | 

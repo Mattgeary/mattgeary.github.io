@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+I currently run two postgraduate programmes (MRes Biological Sciences and MSc Wildlife Conservation) and am the Postgraduate Research Tutor for the department. I previously developed and led two undergraduate programmes (BSc Conservation Biology and BSc Zoology). 
+
 My teaching focuses on ecology, conservation and statistical analysis. I designed and currently lead the following modules
 
 {% include base_path %}
@@ -33,9 +35,12 @@ I also contribute several other modules:
 * BI4114 - Data Handling and Project Design
 * BI5113 - Experiential Learning
 * BI5121 - Field Ecology
+* BI5135 - Population Biology (Module Leader)
+* BI5138 - Conservation Technologies (Module Leader)
 * BI6123 - Physiology and Behaviour
 * BI6168 - Biodiversity Conservation and Sustainability
 * BI6170 - Animal Parasitism: Medical, Veterinary and Ecological Impacts
+* BI7138 - Biodiversity Informatics (Module Leader)
 * BI7139 - Field Research Techniques for Wildlife Conservation
 
 
