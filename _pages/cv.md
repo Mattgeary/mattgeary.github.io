@@ -38,7 +38,7 @@ My research focuses on modelling populations in space and time. Currently I am w
 * Programme Leader - MRes Biological Sciences
 * Programme Leader - MSc Wildlife Conservation
 * Programme Leader for BSc (Hons) Conservation Biology (2014 - 2018)  
-* Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI5135 - Population Biology and Conservation, BI7138 - COnservation Technologies, BI7138 - Biodiversity Informatics and BI7143 - Wildlife Research Methods  
+* Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI737 Managing Wildlie Populations and Landscapes and BI7143 - Wildlife Research Methods  
 * External Examiner at Bangor University (2015 - 2019)
 * External Examiner at NUI Galway (Environmental Science)
 * Faculty Research Ethics Committee
@@ -106,6 +106,7 @@ __Ecological Surveyor, Highland Ornithology__
 ## Output
 
 ### Publications
+__Geary, M., Brailsford, C.J., Hough, L.I., Baker, F., Guerrero, S., Leon, Y.M., Collar, N.J. and Marsden, S.J., 2021.__ Street-level green spaces support a key urban population of the threatened Hispaniolan parakeet Psittacara chloropterus. Urban Ecosystems https://doi.org/10.1007/s11252-021-01119-1
 
 __Geary, M. and von Hardenberg, A., 2020.__ White-faced Darter distribution is associated with coniferous forests in Great Britain. Insect Conservation and Diversity  
 
