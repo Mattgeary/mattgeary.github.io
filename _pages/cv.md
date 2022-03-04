@@ -170,7 +170,7 @@ Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specif
 | Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (_Leptotila wellsi_) | 2016 - Present |
 | Michal Zatrak | PhD | Investigating stress and diseases in harbour seals | 2018 - Present |
 | Rachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British 
-Isles | 2018 - Present | 
+Isles | 2018 - Present |
 | Eleanor Comley | MRes | Using Camera Traps to Assess Mammal Communities in East Africa | 2021 - Present |
 | Shannon Cornish | MRes | Using camera trap data to assess detection of Aardvark in Ziwa Rhino Sanctuary, Uganda | 2020 - 2021 |
 | Joe Cooper | MRes | Conservation of Houbara Bustard on Lanzarote, Spain | 2019 - 2020 | 
