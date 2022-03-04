@@ -38,13 +38,13 @@ My research focuses on modelling populations in space and time. Currently I am w
 * Programme Leader - MRes Biological Sciences
 * Programme Leader - MSc Wildlife Conservation
 * Programme Leader for BSc (Hons) Conservation Biology (2014 - 2018)  
-* Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI737 Managing Wildlie Populations and Landscapes and BI7143 - Wildlife Research Methods  
+* Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI77158 Conservation Ecology and BI7143 - Wildlife Research Methods  
 * External Examiner at Bangor University (2015 - 2019)
 * External Examiner at NUI Galway (Environmental Science)
+* External Examiner at Newquay College
 * Faculty Research Ethics Committee
 * Management Board - Bioscience Horizons: The International Journal of Undergraduate Research  (2014 - 2018)
 * BES Review College
-* Member of the British Ecological Society and British Ornithologists Union  
 * Reviewer for Bird Study, Bird Conservation International, Ibis, PLOS One, Italian Journal of Zoology, Forest Ecology and Management, Ringing and Migration
 * Design and run training courses (e.g. Species distribution modelling for Chester Zoo, Occupancy Modelling forthe managemnt of small populations) 
 
@@ -106,6 +106,13 @@ __Ecological Surveyor, Highland Ornithology__
 ## Output
 
 ### Publications
+
+__Fielding, A.H., Anderson, D., Benn, S., Dennis, R., Geary, M., Weston, E. and Whitfield, D.P., 2022.__ Responses of dispersing GPS‐tagged Golden Eagles (Aquila chrysaetos) to multiple wind farms across Scotland. Ibis, 164(1), pp.102-117.
+
+__Ball, R.J., Kitchiner, A., Davison, N.J., Brownlow, A., Berrow, S., McKeown, N.J., IJsseldijk, L.L., Geary, M., McDowall, I. and Muir, A.P., 2021.__ New haplotypes found in stranded long‐finned pilot whales (Globicephala melas) in the eastern North Atlantic and adjacent waters. Marine Mammal Science.
+
+__Fielding, A. H., Anderson, D., Benn, S., Dennis, R., Geary, M., Weston, E., & Whitfield, D. P., 2021.__ Non-territorial GPS-tagged golden eagles Aquila chrysaetos at two Scottish wind farms: Avoidance influenced by preferred habitat distribution, wind speed and blade motion status. PloS one, 16(8), e0254159.  
+
 __Geary, M., Brailsford, C.J., Hough, L.I., Baker, F., Guerrero, S., Leon, Y.M., Collar, N.J. and Marsden, S.J., 2021.__ Street-level green spaces support a key urban population of the threatened Hispaniolan parakeet Psittacara chloropterus. Urban Ecosystems https://doi.org/10.1007/s11252-021-01119-1
 
 __Geary, M. and von Hardenberg, A., 2020.__ White-faced Darter distribution is associated with coniferous forests in Great Britain. Insect Conservation and Diversity  
@@ -156,17 +163,21 @@ Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specif
 **************
 
 ## PGR Supervision
-
-| Naomi Matthews | PhD | COnservation Ecology of Giant Pangolin in Uganda | 2019 - Present |
+|Maria Virginia Boiani  | PhD | Spatio-temporal dynamics of wolf in the Italian Alps | 2021 - Present |
+|James Hill | PhD | Understanding facial signalling and related behaviours in owls and their use in developing a welfare assessment for wild and captive conspecifics | 2021 - Present |
+| Naomi Matthews | PhD | Conservation Ecology of Giant Pangolin in Uganda | 2019 - Present |
 | Andrea Thomen | PhD | Conservation and management of the Hispaniolan Parrot and Parakeet in Dominican Republic | 2019 - Present |
 | Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (_Leptotila wellsi_) | 2016 - Present |
 | Michal Zatrak | PhD | Investigating stress and diseases in harbour seals | 2018 - Present |
-| Rachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British Isles | 2018 - Present | 
-| Joe Cooper | MRes | Conservation of Houbara Bustard on Lanzarote, Spain | 2019 - Present | 
-| Lorna Marcham | MRes | Pond colonisation and conservation on the Black Isle, Scotland | 2019 - Present |
-| Jack Lawrence | MRes | Uptake of nestboxes by Tawny Owl in Cheshire, UK | 2019 - Present | 
-| Lottie Middleton | MRes | Landscape genetics of the White-faced Darter dragonfly | 2019 - Present |
-| Matthew Williams | MRes | Landscape genetics of the white-faced Darter dragonfly | 2019 - Present | 
+| Rachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British 
+Isles | 2018 - Present | 
+| Eleanor Comley | MRes | Using Camera Traps to Assess Mammal Communities in East Africa | 2021 - Present |
+| Shannon Cornish | MRes | Using camera trap data to assess detection of Aardvark in Ziwa Rhino Sanctuary, Uganda | 2020 - 2021 |
+| Joe Cooper | MRes | Conservation of Houbara Bustard on Lanzarote, Spain | 2019 - 2020 | 
+| Lorna Marcham | MRes | Pond colonisation and conservation on the Black Isle, Scotland | 2019 - 2020 |
+| Jack Lawrence | MRes | Uptake of nestboxes by Tawny Owl in Cheshire, UK | 2019 - 2020 | 
+| Lottie Middleton | MRes | Landscape genetics of the White-faced Darter dragonfly | 2019 - 2020|
+| Matthew Williams | MRes | Landscape genetics of the white-faced Darter dragonfly | 2019 - 2020 | 
 | Laura Hough | MRes | Spatial Ecology of Hispaniolan Parakeet in Santo Domingo, D.R. | 2018 - 2019 | 
 | Celia Brailsford | MRes | Breeding and Social Behaviour of Hispaniolan Parakeet in Santo Domingo, D.R. | 2018 - 2019 | 
 | Susanna Phillips | MRes | Landscape Genetics of Natterjack Toad Reintroduction projects in Cheshire and N. Wales | 2018 - 2019 | 

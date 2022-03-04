@@ -40,6 +40,7 @@ I also contribute several other modules:
 * BI6123 - Physiology and Behaviour
 * BI6168 - Biodiversity Conservation and Sustainability
 * BI6170 - Animal Parasitism: Medical, Veterinary and Ecological Impacts
+* BI7137 - Managing Populations and Landscapes (Module Leader)
 * BI7138 - Biodiversity Informatics (Module Leader)
 * BI7139 - Field Research Techniques for Wildlife Conservation
 

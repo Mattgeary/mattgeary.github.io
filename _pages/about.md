@@ -16,7 +16,7 @@ My current research includes conservation projects on birds inlcuding projects i
 
 <br>
 
-I usually advertise several MRes projects each year as part of our [MRes Biological Sciences](https://www1.chester.ac.uk/study/postgraduate/biological-sciences-mres) programme. If you are interested, take a look at the [details of my projects](http://mattgeary.github.io/MRes/) which will, be posted when confirmed and contact me if you'd like to know more. I also run our [MSc in Wildlife COnservation}(https://www1.chester.ac.uk/study/postgraduate/wildlife-conservation).
+I usually advertise several MRes projects each year as part of our [MRes Biological Sciences](https://www1.chester.ac.uk/study/postgraduate/biological-sciences-mres) programme. If you are interested, take a look at the [details of my projects](http://mattgeary.github.io/MRes/) which will, be posted when confirmed and contact me if you'd like to know more. I also run our [MSc in Wildlife Conservation](https://www1.chester.ac.uk/study/postgraduate/wildlife-conservation).
 
 <br>
 
