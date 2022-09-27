@@ -106,28 +106,35 @@ __Ecological Surveyor, Highland Ornithology__
 ## Output
 
 ### Publications
+__Zatrak, M., Brittain, S., Himmelreich, L., Lovick-Earle, S., Pizzi, R., Shaw, K.J., Grant, R.A. & Geary, M., 2022.__ Factors affecting the survival of harbor (_Phoca vitulina_) and gray seal (_Halichoerus grypus_) juveniles admitted for rehabilitation in the UK and Ireland. Marine Mammal Science. _In press_.   
 
-__Fielding, A.H., Anderson, D., Benn, S., Dennis, R., Geary, M., Weston, E. and Whitfield, D.P., 2022.__ Responses of dispersing GPS‐tagged Golden Eagles (Aquila chrysaetos) to multiple wind farms across Scotland. Ibis, 164(1), pp.102-117.
+__Matthews, N., Nixon, S., von Hardenberg, A., Isoke, S. & Geary, M. 2022.__ Targeting burrows improves detection in giant pangolin _Smutsia gigantea_ camera trap surveys. Oryx, _In press_.  
 
-__Ball, R.J., Kitchiner, A., Davison, N.J., Brownlow, A., Berrow, S., McKeown, N.J., IJsseldijk, L.L., Geary, M., McDowall, I. and Muir, A.P., 2021.__ New haplotypes found in stranded long‐finned pilot whales (Globicephala melas) in the eastern North Atlantic and adjacent waters. Marine Mammal Science.
+__Peters, C.M., Geary, M., Nelson, H.P., Rusk, B.  von Hardenberg, A. & Muir, A.P., 2022.__ Phylogenetic placement and life history trait imputation for Grenada Dove _Leptotila wellsi_. Bird Conservation International, 1-11. doi:10.1017/S0959270922000065
 
-__Fielding, A. H., Anderson, D., Benn, S., Dennis, R., Geary, M., Weston, E., & Whitfield, D. P., 2021.__ Non-territorial GPS-tagged golden eagles Aquila chrysaetos at two Scottish wind farms: Avoidance influenced by preferred habitat distribution, wind speed and blade motion status. PloS one, 16(8), e0254159.  
+__Geary, M. Cooper, J.R. & Collar, N.J. 2022.__ Anthropogenic influences on habitat use by African Houbaras _Chlamydotis undulata_ on Lanzarote, Canary Islands. Journal for Nature Conservation 68, 126231.  
 
-__Geary, M., Brailsford, C.J., Hough, L.I., Baker, F., Guerrero, S., Leon, Y.M., Collar, N.J. and Marsden, S.J., 2021.__ Street-level green spaces support a key urban population of the threatened Hispaniolan parakeet Psittacara chloropterus. Urban Ecosystems https://doi.org/10.1007/s11252-021-01119-1
+__Fielding, A.H., Anderson, D., Benn, S., Dennis, R., Geary, M., Weston, E. and Whitfield, D.P., 2022.__ Responses of dispersing GPS‐tagged Golden Eagles (_Aquila chrysaetos_) to multiple wind farms across Scotland. Ibis, 164(1), pp.102-117.
+
+__Ball, R.J., Kitchiner, A., Davison, N.J., Brownlow, A., Berrow, S., McKeown, N.J., IJsseldijk, L.L., Geary, M., McDowall, I. and Muir, A.P., 2021.__ New haplotypes found in stranded long-finned pilot whales (_Globicephala melas_) in the eastern North Atlantic and adjacent waters. Marine Mammal Science.
+
+__Fielding, A. H., Anderson, D., Benn, S., Dennis, R., Geary, M., Weston, E., & Whitfield, D. P., 2021.__ Non-territorial GPS-tagged golden eagles _Aquila chrysaetos_ at two Scottish wind farms: Avoidance influenced by preferred habitat distribution, wind speed and blade motion status. PloS one, 16(8), e0254159.  
+
+__Geary, M., Brailsford, C.J., Hough, L.I., Baker, F., Guerrero, S., Leon, Y.M., Collar, N.J. and Marsden, S.J., 2021.__ Street-level green spaces support a key urban population of the threatened Hispaniolan parakeet _Psittacara chloropterus_. Urban Ecosystems https://doi.org/10.1007/s11252-021-01119-1
 
 __Geary, M. and von Hardenberg, A., 2020.__ White-faced Darter distribution is associated with coniferous forests in Great Britain. Insect Conservation and Diversity  
 
-__Phillips, S., Geary, M., Allmark, M., Bennett, S., Norman, K., Ball, R.J., Peters, C.M. and Muir, A.P., 2020.__ The importance of long-term genetic monitoring of reintroduced populations: inbreeding in the natterjack toad (Epidalea calamita). Herpetological Journal, 30(3).  
+__Phillips, S., Geary, M., Allmark, M., Bennett, S., Norman, K., Ball, R.J., Peters, C.M. and Muir, A.P., 2020.__ The importance of long-term genetic monitoring of reintroduced populations: inbreeding in the natterjack toad (_Epidalea calamita_). Herpetological Journal, 30(3).  
 
 __Nelson, H.P., Devenish-Nelson, E.S., Rusk, B.L., Geary, M. and Lawrence, A.J., 2020.__ A review of tropical dry forest ecosystem service research in the Caribbean–gaps and policy-implications. Ecosystem Services, 43, p.101095.  
 
 __Abrahams, C., Geary, M., 2020__ Combining bioacoustics and occupancy modelling for improved monitoring of rare breeding bird populations. Ecological Indicators (112). https://doi.org/10.1016/j.ecolind.2020.106131
 
-__Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 2019.__ Camera Traps Confirm the Presence of the White-naped Mangabey  Cercocebus lunulatus in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).  
+__Nolan, R., Welsh, A., Geary, M., Hartley, M., Dempsey, A., Mono, J.C., Osei, D. & Stanley, C.R. 2019.__ Camera Traps Confirm the Presence of the White-naped Mangabey _Cercocebus lunulatus_ in Cape Three Points Forest Reserve, Western Ghana, Primate conservation (33).  
 
-__Davies, R., von Hardenberg, A. & Geary, M., 2018.__ Recapture rates and habitat associations of White-faced Darter Leucorhinnia dubia on Fenn's and Whixall Moss, Shropshire, UK Journal of the British Dragonfly Society 34 (2), 89-101  
+__Davies, R., von Hardenberg, A. & Geary, M., 2018.__ Recapture rates and habitat associations of White-faced Darter _Leucorhinnia dubia_ on Fenn's and Whixall Moss, Shropshire, UK Journal of the British Dragonfly Society 34 (2), 89-101  
 
-__Geary, M., Haworth, P.H. & Fielding, A.H., 2018.__ Hen harrier Circus cyaneus nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography, Bird Study, DOI: 10.1080/00063657.2017.1421611  
+__Geary, M., Haworth, P.H. & Fielding, A.H., 2018.__ Hen harrier _Circus cyaneus_ nest sites on the Isle of Mull are associated with habitat mosaics and constrained by topography, Bird Study, DOI: 10.1080/00063657.2017.1421611  
 
 __Nelson, H.P., Devenish-Nelson, E.S., Rusk, B.L., Geary, M. and Lawrence, A.J., 2018.__ A call to action for climate change research on Caribbean dry forests. Regional Environmental Change, 18(5)  
 
@@ -139,11 +146,11 @@ __Geary, M., Fielding, A. H., McGowan, P. J. K. & Marsden, S.J., 2015.__ Scenari
 
 __Geary, M., Fielding, A.H., Marsden, S.J., 2015.__ Both habitat change and local lek structure influence patterns of spatial loss and recovery in a black grouse population. Population Ecology 57, 421–431. doi:10.1007/s10144-015-0484-3  
 
-__Reiner, R.C., Geary, M., Atkinson, P.M., Smith, D.L., Gething, P.W., 2015.__ Seasonality of Plasmodium falciparum transmission: a systematic review. Malaria Journal 14, 343.  
+__Reiner, R.C., Geary, M., Atkinson, P.M., Smith, D.L., Gething, P.W., 2015.__ Seasonality of _Plasmodium falciparum_ transmission: a systematic review. Malaria Journal 14, 343.  
 
 __Wardrop, N.A., Geary, M., Osborne, P.E., Atkinson, P.M., 2014.__ Interpreting predictive maps of disease: highlighting the pitfalls of distribution models in epidemiology. Geospatial Health 9, 237–246.   
 
-__Geary, M., Fielding, A. & Marsden, S.J.__, 2013. Designing mosaic landscapes for Black Grouse Tetrao tetrix using multi-scaled models. Ibis, 155: 792–803. doi: 10.1111/ibi.12090   
+__Geary, M., Fielding, A. & Marsden, S.J.__, 2013. Designing mosaic landscapes for Black Grouse _Tetrao tetrix_ using multi-scaled models. Ibis, 155: 792–803. doi: 10.1111/ibi.12090   
 
 __Geary, M., Fielding, A. H., & Marsden, S. J.__, 2012. The anatomy of population change in a black grouse population 1992-2008. Oecologia, (168), 73-81. doi:10.1007/s00442-011-2062-5  
 
@@ -170,7 +177,7 @@ Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specif
 | Andrea Thomen | PhD | Conservation and management of the Hispaniolan Parrot and Parakeet in Dominican Republic | 2019 - Present |
 | Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (_Leptotila wellsi_) | 2016 - Present |
 | Michal Zatrak | PhD | Investigating stress and diseases in harbour seals | 2018 - Present |
-| Rachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British 
+| Rachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British
 Isles | 2018 - Present |
 | Eleanor Comley | MRes | Using Camera Traps to Assess Mammal Communities in East Africa | 2021 - Present |
 | Shannon Cornish | MRes | Using camera trap data to assess detection of Aardvark in Ziwa Rhino Sanctuary, Uganda | 2020 - 2021 |
