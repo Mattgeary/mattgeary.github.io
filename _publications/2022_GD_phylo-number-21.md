@@ -6,7 +6,7 @@ excerpt: 'Grenada Dove is a distinct species, most closely related to the Gray-C
 date: 2022-08-05
 venue: 'Bird Conservation International'
 paperurl: 'https://www.cambridge.org/core/journals/bird-conservation-international/article/phylogenetic-placement-and-life-history-trait-imputation-for-grenada-dove-leptotila-wellsi/E1845DBBE2AFCB4962A527D98E85255A'
-citation: 'Peters, C.M., Geary, M., Nelson, H.P., Rusk, B.  von Hardenberg, A. & Muir, A.P., 2022. Phylogenetic placement and life history trait imputation for Grenada Dove Leptotila wellsi. Bird Conservation International, 1-11. doi:10.1017/S0959270922000065'
+citation: 'Peters, C.M., Geary, M., Nelson, H.P., Rusk, B.  von Hardenberg, A. & Muir, A.P., 2023. Phylogenetic placement and life history trait imputation for Grenada Dove Leptotila wellsi. Bird Conservation International, 1-11. doi:10.1017/S0959270922000065'
 ---
 # Abstract
 
@@ -14,4 +14,4 @@ Phylogenetic analyses can be used to resolve taxonomic uncertainties and reconst
 
 [Link to Journal Website](https://www.cambridge.org/core/journals/bird-conservation-international/article/phylogenetic-placement-and-life-history-trait-imputation-for-grenada-dove-leptotila-wellsi/E1845DBBE2AFCB4962A527D98E85255A)
 
-citation: 'Peters, C.M., Geary, M., Nelson, H.P., Rusk, B.  von Hardenberg, A. & Muir, A.P., 2022. Phylogenetic placement and life history trait imputation for Grenada Dove Leptotila wellsi. Bird Conservation International, 1-11. doi:10.1017/S0959270922000065'
+citation: 'Peters, C.M., Geary, M., Nelson, H.P., Rusk, B.  von Hardenberg, A. & Muir, A.P., 2023. Phylogenetic placement and life history trait imputation for Grenada Dove Leptotila wellsi. Bird Conservation International, 1-11. doi:10.1017/S0959270922000065'

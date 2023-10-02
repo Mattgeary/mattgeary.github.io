@@ -34,19 +34,20 @@ My research focuses on modelling populations in space and time. Currently I am w
 
 * Associate Editor - Bird Study  
 * Fellow of the Higher Education Academy
-* Department Postgraduate Tutor
+* Senior Faculty PGR Tutor (2022 - present)
+* Department Postgraduate Tutor (2018 - 2022)
 * Programme Leader - MRes Biological Sciences
 * Programme Leader - MSc Wildlife Conservation
 * Programme Leader for BSc (Hons) Conservation Biology (2014 - 2018)  
-* Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI77158 Conservation Ecology and BI7143 - Wildlife Research Methods  
+* Module Leader for BI4141 - Global Biodiversity: Concepts & Threats, BI5135 - Population Biology  & Conservation, BI7139 - Field Research Techniques for Wildlife Conservation, BI7158 - Conservation Ecology and BI7143 - Wildlife Research Methods  
 * External Examiner at Bangor University (2015 - 2019)
-* External Examiner at NUI Galway (Environmental Science)
-* External Examiner at Newquay College
-* Faculty Research Ethics Committee
+* External Examiner at NUI Galway (Environmental Science; 2018 - 2022)
+* External Examiner at Newquay College (BSc (Hons) Applied Zoology (Top-up); 2022 - present)
+* Faculty Research Ethics Committee (2015 - 2022)
 * Management Board - Bioscience Horizons: The International Journal of Undergraduate Research  (2014 - 2018)
 * BES Review College
 * Reviewer for Bird Study, Bird Conservation International, Ibis, PLOS One, Italian Journal of Zoology, Forest Ecology and Management, Ringing and Migration
-* Design and run training courses (e.g. Species distribution modelling for Chester Zoo, Occupancy Modelling forthe managemnt of small populations) 
+* Design and run training courses (e.g. Species distribution modelling for Chester Zoo, Occupancy Modelling for the management of small populations) 
 
 ## Grants awarded
 
@@ -106,11 +107,17 @@ __Ecological Surveyor, Highland Ornithology__
 ## Output
 
 ### Publications
-__Zatrak, M., Brittain, S., Himmelreich, L., Lovick-Earle, S., Pizzi, R., Shaw, K.J., Grant, R.A. & Geary, M., 2022.__ Factors affecting the survival of harbor (_Phoca vitulina_) and gray seal (_Halichoerus grypus_) juveniles admitted for rehabilitation in the UK and Ireland. Marine Mammal Science. _In press_.   
+__Summers, M., Geary, M., Djuni, N., Kresno, P.A., Laya, A., Sawuwu, S., Bawotong, A., Abas, W., Tan Oga, V.M., Nur, A.M. and Isfandri, M., 2023.__ Degree of egg-taking by humans determines the fate of maleo (Macrocephalon maleo) nesting grounds across Sulawesi. Biodiversity and Conservation, 32(3), 899-919.
 
-__Matthews, N., Nixon, S., von Hardenberg, A., Isoke, S. & Geary, M. 2022.__ Targeting burrows improves detection in giant pangolin _Smutsia gigantea_ camera trap surveys. Oryx, _In press_.  
+__Pereira, D., Gardner, M., Geary, M., Bell, D. and Collar, N., 2023.__ Distribution and habitat requirements of the Bahama Warbler Setophaga flavescens on Grand Bahama in 2018. Bird Conservation International, 33, e46.
 
-__Peters, C.M., Geary, M., Nelson, H.P., Rusk, B.  von Hardenberg, A. & Muir, A.P., 2022.__ Phylogenetic placement and life history trait imputation for Grenada Dove _Leptotila wellsi_. Bird Conservation International, 1-11. doi:10.1017/S0959270922000065
+__Geary, M., Hartley, M., Ball, Z., Wilkes, S., Khean, M., Ball, R. J., Peters, C. M., & Muir A. P., 2023.__ Camera traps and genetic identification of faecal samples for detection and monitoring of an endangered ungulate. Raffles Bulletin of Zoology 71:120–127.
+
+__Zatrak, M., Brittain, S., Himmelreich, L., Lovick-Earle, S., Pizzi, R., Shaw, K.J., Grant, R.A. & Geary, M., 2023.__ Factors affecting the survival of harbor (_Phoca vitulina_) and gray seal (_Halichoerus grypus_) juveniles admitted for rehabilitation in the UK and Ireland. Marine Mammal Science, 39(2), 462-480.   
+
+__Matthews, N., Nixon, S., von Hardenberg, A., Isoke, S. & Geary, M. 2023.__ Targeting burrows improves detection in giant pangolin _Smutsia gigantea_ camera trap surveys. Oryx, 1-9.  
+
+__Peters, C.M., Geary, M., Nelson, H.P., Rusk, B.  von Hardenberg, A. & Muir, A.P., 2023.__ Phylogenetic placement and life history trait imputation for Grenada Dove _Leptotila wellsi_. Bird Conservation International, 1-11. doi:10.1017/S0959270922000065
 
 __Geary, M. Cooper, J.R. & Collar, N.J. 2022.__ Anthropogenic influences on habitat use by African Houbaras _Chlamydotis undulata_ on Lanzarote, Canary Islands. Journal for Nature Conservation 68, 126231.  
 
@@ -175,11 +182,11 @@ Using the Data Behind Bird Atlas Projects to Produce Estimates of Habitat Specif
 |James Hill | PhD | Understanding facial signalling and related behaviours in owls and their use in developing a welfare assessment for wild and captive conspecifics | 2021 - Present |
 | Naomi Matthews | PhD | Conservation Ecology of Giant Pangolin in Uganda | 2019 - Present |
 | Andrea Thomen | PhD | Conservation and management of the Hispaniolan Parrot and Parakeet in Dominican Republic | 2019 - Present |
-| Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (_Leptotila wellsi_) | 2016 - Present |
+| Kate Peters | PhD | Molecular Phylogeny and Genetic Diversity of the Critically Endangered Grenada Dove (_Leptotila wellsi_) | 2016 - 2022 |
 | Michal Zatrak | PhD | Investigating stress and diseases in harbour seals | 2018 - Present |
 | Rachel Ball | PhD | Novel techniques for informing conservation of difficult to observe species: Long-finned pilot whales (_Globicephala melas_) around the British
-Isles | 2018 - Present |
-| Eleanor Comley | MRes | Using Camera Traps to Assess Mammal Communities in East Africa | 2021 - Present |
+Isles | 2018 - 2023|
+| Eleanor Comley | MRes | Using Camera Traps to Assess Mammal Communities in East Africa | 2021 - 2023 |
 | Shannon Cornish | MRes | Using camera trap data to assess detection of Aardvark in Ziwa Rhino Sanctuary, Uganda | 2020 - 2021 |
 | Joe Cooper | MRes | Conservation of Houbara Bustard on Lanzarote, Spain | 2019 - 2020 | 
 | Lorna Marcham | MRes | Pond colonisation and conservation on the Black Isle, Scotland | 2019 - 2020 |

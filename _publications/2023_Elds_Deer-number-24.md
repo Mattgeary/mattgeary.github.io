@@ -1,0 +1,17 @@
+---
+title: "Camera traps and genetic identification of faecal samples for detection and monitoring of an Endangered ungulate"
+collection: publications
+permalink: /publication/2023_Elds_Deer-number-24
+excerpt: 'Eld's deer are present but likely to have very low density in the forests of Northern Vietnam. Both camera trapping and faecal sampling provide potential methods for monitoring.'
+date: 2023-02-20
+venue: 'Raffles Bulletin of Zoology'
+paperurl: 'https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/10/2023/02/RBZ-2023-0011.pdf'
+citation: 'Geary, M., Hartley, M., Ball, Z., Wilkes, S., Khean, M., Ball, R. J., Peters, C. M., & Muir A. P. (2023). Camera traps and genetic identification of faecal samples for detection and monitoring of an endangered ungulate. Raffles Bulletin of Zoology 71:120–127'
+---
+# Abstract
+
+Almost all Indochinese ungulates are classified as globally threatened but efforts to assess and monitor population status have been hampered by their rarity, cryptic nature and uncertainty in accurate identification from sightings. An improved approach is urgently needed to gather information about threatened ungulate species in order to effectively conserve them as, a lack of reliable monitoring methods means that basic information such as population sizes, distribution and habitat associations is currently unknown. Here, we used a combination of camera trapping and genetic detection of the Endangered Eld’s deer, Rucervus eldii, to investigate the utility of these methods to infer intensity of site use within a protected Cambodian dry forest. We asked: 1) Are Eld's deer present in our study area?; 2) How is site use influenced by local habitat?; and 3) Do camera traps or genetic detection perform better in terms of detection and monitoring? Camera traps were deployed and faecal samples collected from Chhaeb Wildlife Sanctuary in Northern Cambodia during the 2017 dry season. Faecal samples were identified as Eld’s deer using newly developed species-specific mitochondrial DNA primers. Camera traps recorded 20 Eld’s deer observations across 3905 trap-nights and 44 out of 71 collected faecal samples, identified by fieldworkers as likely to belong to Eld’s deer, were positively identified to be so. Camera trap surveys and genetic detection demonstrated that Eld’s deer were present in Chhaeb Wildlife Sanctuary, although the number of detections relative to sampling effort was low in both methods (detected at 29% and 1% of sample sites, respectively). Occupancy models showed that water level and tree diameter both had positive relationships, whilst human and domestic or feral pig activity had a negative relationship, with the relative intensity of Eld’s deer site use. Overall, our data suggest that both of our methods can prove effective for monitoring Eld’s deer but that repeated sampling is necessary to account for their low detectability in this area. We suggest that faecal samples are collected during future camera trap monitoring visits to maximise efficiency, increase detectability, and provide the most information to support conservation.
+
+[Link to Journal Website](https://lkcnhm.nus.edu.sg/publications/raffles-bulletin-of-zoology/volumes/volume-71/)
+
+citation: 'Geary, M., Hartley, M., Ball, Z., Wilkes, S., Khean, M., Ball, R. J., Peters, C. M., & Muir A. P. (2023). Camera traps and genetic identification of faecal samples for detection and monitoring of an endangered ungulate. Raffles Bulletin of Zoology 71:120–127'
