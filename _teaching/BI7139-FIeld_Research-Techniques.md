@@ -2,7 +2,7 @@
 title: "BI7139 - Field Research Techniques for Wildlife Conservation "
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/BI7139-Field-Research-Techniques
+permalink: /teaching/BI7139-FIeld_Research-Techniques
 excerpt: "Level 7 course on field survey and monitoring skills"
 venue: ""
 date: 20123-01-01
