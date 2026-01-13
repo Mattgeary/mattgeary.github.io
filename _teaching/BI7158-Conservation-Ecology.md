@@ -5,7 +5,7 @@ type: "Postgraduate course"
 permalink: /teaching/BI7158-ConservationEcology
 excerpt: "Level 7 course on conservation and management"
 venue: ""
-date: 2018-01-01
+date: 2026-01-01
 location: ""
 ---
 

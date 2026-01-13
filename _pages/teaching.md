@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I currently run two postgraduate programmes (MRes Biological Sciences and MSc Wildlife Conservation) and am the Postgraduate Research Tutor for the department. I previously developed and led two undergraduate programmes (BSc Conservation Biology and BSc Zoology). 
+I am Currently the Senior Postgraduate Research Tutor for the Faculty of Science, Business and Enterprise. I previously developed and led two undergraduate programmes (BSc Conservation Biology and BSc Zoology) and two postgraduate programmes (MRes Biological Sciences and MSc Wildlife Conservation). 
 
 My teaching focuses on ecology, conservation and statistical analysis. I designed and currently lead the following modules
 
@@ -19,16 +19,16 @@ I also contribute several other modules:
 
 ### Current
 
-* BI4119 - Ecology
-* BI4118 - Introduction to Animal Behaviour
-* BI4154 - Applied Animal Behaviour
-* BI5110 - Research Methods
-* BI5118 - Behavioural Ecology
-* BI5135 - Population Biology & Conservation
+* NS4001 - Science of Life
+* NS4003 - Global Biodiversity
+* NS4005 - Project-Based Learning in the Biosciences
+* NS5005 - Behavioural Ecology
+* NS5001 - Adaptations to the Environment
+* NS5007 - Human Impacts and Technological Solutions
 * BI6129 - Animal Behaviour and Conservation
-* BI7140 - MRes Research Dissertation
+* BI6168 - Biodiversity Conservation & Sustainability
+* BI7139 - Field Research Techniques for Wildlife Conservation
 * BI7149 - Contemporary Issues in Animal Behaviour 
-
 
 ### Previous contributions
 
@@ -41,8 +41,15 @@ I also contribute several other modules:
 * BI6168 - Biodiversity Conservation and Sustainability
 * BI6170 - Animal Parasitism: Medical, Veterinary and Ecological Impacts
 * BI7137 - Managing Populations and Landscapes (Module Leader)
-* BI7138 - Biodiversity Informatics (Module Leader)
-* BI7139 - Field Research Techniques for Wildlife Conservation
+* BI4119 - Ecology
+* BI4118 - Introduction to Animal Behaviour
+* BI4154 - Applied Animal Behaviour
+* BI5110 - Research Methods
+* BI5118 - Behavioural Ecology
+* BI5135 - Population Biology & Conservation
+* BI7140 - MRes Research Dissertation
+* BI7143 - MRes Research Methods
+
 
 
 
